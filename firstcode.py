@@ -1,5 +1,6 @@
 import sys
 import time
 
-print("Hello kaushik")
+print("Gooc day & Hello kaushik")
+
 
